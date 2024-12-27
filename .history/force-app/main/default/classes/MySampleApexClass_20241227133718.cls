@@ -9,6 +9,3 @@ public class MySampleApexClass {       //Class definition and body
        return myValue;
     }
  }
-//Add apex to sub branch
-
-
