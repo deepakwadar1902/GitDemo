@@ -10,5 +10,3 @@ public class MySampleApexClass {       //Class definition and body
     }
  }
 //Add apex to sub branch
-
-
