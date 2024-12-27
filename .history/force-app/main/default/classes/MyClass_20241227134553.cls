@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> test_sub_branch
 public class MyClass {
     Integer myInteger = 10;
     
